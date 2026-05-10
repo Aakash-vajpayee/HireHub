@@ -7,7 +7,7 @@ const fileUpload = require('express-fileupload')
 app.use(express.json({ limit: '10mb' }))
 
 app.use(cors({
-    origin: "*",
+    origin: ["https://hire-hub-rho-six.vercel.app", "http://localhost:5173"],
     credentials: true
 }))
 
