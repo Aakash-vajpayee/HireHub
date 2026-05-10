@@ -1,8 +1,8 @@
 <h1 align="center" id="title">HireHub</h1>
 
-<p align="center"><img src="https://socialify.git.ci/sujaltangde/HireHub/image?forks=1&issues=1&language=1&name=1&owner=1&pulls=1&stargazers=1&theme=Dark" alt="HireHub" width="640" height="320" /></p>
+<p align="center"><img src="https://socialify.git.ci/Aakash-vajpayee/HireHub/image?forks=1&issues=1&language=1&name=1&owner=1&pulls=1&stargazers=1&theme=Dark" alt="HireHub" width="640" height="320" /></p>
 
-[![Hits](https://hits.sh/github.com/sujaltangde/HireHub.svg?color=116acc)](https://hits.sh/github.com/sujaltangde/HireHub/)
+[![Hits](https://hits.sh/github.com/Aakash-vajpayee/HireHub.svg?color=116acc)](https://hits.sh/github.com/Aakash-vajpayee/HireHub/)
 
 <p id="description">Full Stack Job application portal built using MERN stack, Focusing on simplifying the job applications.</p>
 
@@ -39,7 +39,7 @@ To get started with the assignment project, follow these steps:
 
 1. Clone the repository to your local machine:
     ```bash
-    git clone https://github.com/sujaltangde/HireHub.git 
+    git clone https://github.com/Aakash-vajpayee/HireHub.git 
     ```
 
 2. Change into the frontend directory:
@@ -87,3 +87,6 @@ Any contributor who wishes to contribute to this project should first read the R
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB 
 - **Styling**: Tailwind CSS, Material UI, Mantine UI
+
+## 👨‍💻 Developer
+Built by [Aakash Vajpayee](https://github.com/Aakash-vajpayee)
